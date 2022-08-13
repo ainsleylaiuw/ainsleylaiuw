@@ -1,10 +1,6 @@
 <!-- ### Hi there 👋 -->
 (-_-*)
 
-[![counter]](https://count.getloli.com)
-
-[counter]: https://count.getloli.com/get/@:ainsleylaiuw?theme=gelbooru
-	"since August 2022"
 
 <!--
 **ainsleylaiuw/ainsleylaiuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
