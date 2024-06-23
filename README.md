@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 
 (-_-*)
 -->
-Guy that wants to get better at number stuff
+<(0_0<) <(0_0)> (>0_0)> 
 <!--
 **ainsleylaiuw/ainsleylaiuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
